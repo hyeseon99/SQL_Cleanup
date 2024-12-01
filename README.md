@@ -5,7 +5,8 @@
 
 초보자도 쉽게 배울 수 있도록 오라클 SQL 튜닝 수업 내용을 정리하였습니다.
 
-<img src="https://github.com//hyeseon99/SQL_Cleanup/blob/main/sql.png" width="600" height="400">
+![SQL 이미지](https://raw.githubusercontent.com/hyeseon99/SQL_Cleanup/main/sql.png)
+
 
 &nbsp;
 
