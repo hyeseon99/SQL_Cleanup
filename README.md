@@ -18,4 +18,4 @@
   
 - **2. 클러스터(cluster) 가 무엇인가 ?**: 📄 [노트](https://github.com/oracleyu01/rac_class/blob/main/RAC%ED%95%B5%EC%8B%AC2.%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0(Cluster)%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
   
-- **3. SQL 핵심 정리?**: 📄[노트](https://www.notion.so/SQL-a300f2b33485451ba946cd7016c0cbed)
+- **3. SQL 핵심 정리?**: 📄[노트](https://www.notion.so/SQL-f835090d5f4040ce9da40cef930f180a)
